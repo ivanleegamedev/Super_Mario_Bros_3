@@ -1,0 +1,4897 @@
+fileFormatVersion: 2
+guid: 5f8e3e25689a40f4d8456b6b7f650d5e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 807
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7b333f3647ec045aca5246e4488d95
+      internalID: 62125129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 807
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230188d21a01ad84d923dea534f4e3cc
+      internalID: 929963465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 805
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcd786e0550951499aced861b118df5
+      internalID: 1971005426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 806
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da8382c18dcb3f4aae949edf5204c26
+      internalID: 391349104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 807
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e9a909b3ff61447a62710f2bea9ef5
+      internalID: 511557480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 807
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceae94cd60b37804fa60821aea3ef82a
+      internalID: -626361769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 807
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8113884929d478d4eaef4586564fefd3
+      internalID: 669393657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 807
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4b31a004450d54c904323b31eab321
+      internalID: 1983108911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 807
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eefb925eb87e2043b33779140b61e32
+      internalID: -1691428107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 807
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31467fb9b76ffc49b712f5015bfff65
+      internalID: -434378450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 807
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a3a3f2a91dee54f975b10ec3423ff5
+      internalID: -898935993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 807
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bd7bee82dd48948b20a883bcb635a5
+      internalID: -1967555487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_12
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 681
+        width: 88
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e744ab39f77e3a64dba746aa6158f71c
+      internalID: -224029938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_13
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 682
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3bff5fdcc39f34bb405229a00b2148
+      internalID: 1703482203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 754
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656e755b1088d2348a918e4ac7d2415b
+      internalID: -1690027709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 746
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52974eb532e015b4e94fc777076d71ba
+      internalID: -834691196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 787
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2a7bd0dc5003e4e960f645552aff5c
+      internalID: -316273154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 680
+        width: 216
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342abb53dcb153f41a67edd1b8fbda54
+      internalID: 1697051564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 686
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a0f86fd93e2884ca46c44302a29bc0
+      internalID: -2096756522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 680
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171dfbe126aa00640b3e812781bf1d7a
+      internalID: 1071833375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 635
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6146d33b96a24c44b90368140dde32d2
+      internalID: 672329984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 652
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a468f23b7b738048b6318fbe48581b9
+      internalID: -630512746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_22
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 657
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a6b4a581f244a42a7fe8b89bd413d2
+      internalID: -1980716980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 656
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61b9584a2d730b4ab3829b106bcba8b
+      internalID: -944312349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 657
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ef37deabd47444cb33780cc82c55b3
+      internalID: 611859248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 580
+        width: 184
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d54177cdb069c94c85b99005a2c8804
+      internalID: 1922498581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 618
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af802ea928b30aa408ea3025ef438dc3
+      internalID: -58495794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_27
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 613
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e18a4bcc57ce624694b56f0cc1eb986
+      internalID: 258898026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_28
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 657
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233c40c025c72ef4e947b1e40e7d39d8
+      internalID: 1043099598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 524
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603abb898b0a1e14b925aa03ad471344
+      internalID: 633611003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_30
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 590
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ee8ab5c5a6fcc4e9e78e0f65c39fe3
+      internalID: 160894531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_31
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 584
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2757dcc89cf74254c8ecc2bcb9942362
+      internalID: 799031092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_32
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 613
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe60ea3d08ff504cb70205eaa577892
+      internalID: -832848334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_33
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 613
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bb06382b04698449075f3ae9b8e1e2
+      internalID: 900328604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_34
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 528
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bbeaf4fa34ff14482de68e75c6a18e
+      internalID: -1245724417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_35
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 528
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a775ac2b8070cf646865ffb2b0e2f48b
+      internalID: 1691466735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_36
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 476
+        width: 143
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3fe7c6757d56e4093feca03225fff6
+      internalID: 1893035766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_37
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 522
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cf1137815c21d4497db8324058c2a0
+      internalID: 1826658669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_38
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 500
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be074739b0514184bade9aa8145bbe40
+      internalID: 1349039218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_39
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 444
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275039a8b9800884c98cc5c48b5d849b
+      internalID: 1829320245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_40
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 498
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3123dd65c1bc9f04a95f06ef4305656d
+      internalID: 828254533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_41
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 503
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97743c99e0d78c340bcfa7d857025710
+      internalID: 849398502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_42
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 478
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0cdb1a0001114478a111392d277dc8
+      internalID: 821125847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_43
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 478
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428d1ae9615cbc7498680b116d3b3d99
+      internalID: 1920850785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_44
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 500
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3876b85b743f443b6f9f95fee372ee
+      internalID: -1216830491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_45
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03122d5ec5269b04f856ceef025e4eeb
+      internalID: 1710153911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_46
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f5e1721dc29f14da0e33741a96820e
+      internalID: 512556742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_47
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 476
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff70f826d168c2439d505ee71e90fe2
+      internalID: 1586245196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_48
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 476
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816130c94e218304d851316a4bbf8edb
+      internalID: 1116196633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_49
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 476
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6818f1c197cb649be547418c36ea4c
+      internalID: 1425311009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 390
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89103ac0ab7913b40b9871ea12d420f0
+      internalID: -683628669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 452
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4146b08ed7ebcea4e89e74cf5d6a3ece
+      internalID: -321696390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_52
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 425
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2cba3954c6e764c8cf76cdf600c212
+      internalID: 1035378873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_53
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 425
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d4b19041da3d0419572bc18906fb0a
+      internalID: -1904792124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_54
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 440
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3d7bc4fca68ec49a68e7e913edea83
+      internalID: 743942276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_55
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 390
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ad1393ef76a6b41b367e5a06b880ba
+      internalID: -1899321943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_56
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 390
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9081e189754f3ea4b9d2730b85ce43b3
+      internalID: -23845131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_57
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 390
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aab70c214104a84ab3e8c87232aa8c9
+      internalID: 518645047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_58
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 357
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9af2f8503debe4eb8ab7669efbec40
+      internalID: 1239255116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 357
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c3455ea10c8d2429ee9b084ad54aff
+      internalID: -507914652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_60
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 385
+        width: 160
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6905578990784f4ba2e01de4bfe12d5
+      internalID: -1441084367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_61
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 367
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01e15a9420d5ba439ee015282218f91
+      internalID: -943176985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_62
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 361
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed11184f53d0a74b8fbf3ba671af597
+      internalID: 599751277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_63
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 361
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1cdd708f694ed4296749eb47af9fb0
+      internalID: -683670569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_64
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 361
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9c54b07fee0c144a2dc28216ff739d
+      internalID: -116930547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_65
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 360
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79036abd7965c9747ba4e967be685878
+      internalID: 31181460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_66
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 360
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964bb3f39ca55784bb5d80f8de4e19fe
+      internalID: 897237894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_67
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 359
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24c2fe048aef8349a64fc09e7bc4050
+      internalID: -1868476012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_68
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 352
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9c4649f61b64f4399020a85c2f67c0
+      internalID: 549913723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_69
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8df304fad560224bb72344a7aa13ba4
+      internalID: 804184517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_70
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 357
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e41f0d9a0a53994f94a2b0cb22a785b
+      internalID: 792166933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_71
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fa79d20eb70dd4fa65bcbcbbf3c1c7
+      internalID: -586885948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_72
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 357
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4da8fb6c2069a6498a78ed522d5ce86
+      internalID: 426929277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_73
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 357
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ff67e98019e8040b0d1bc18d43f713
+      internalID: -1472450010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_74
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 356
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b583fbcc6bfe0f44af839e01d43ce98
+      internalID: -1308268158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_75
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 369
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e55674635ae65e408544cd9f0dc1e74
+      internalID: -2021134556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_76
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 366
+        width: 164
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1ba799eec94004fbb52def168f7593
+      internalID: -428225915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_77
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 368
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4867d5b3670a264fb8baa397abad0e3
+      internalID: -560740748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_78
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 275
+        width: 112
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19031e6a3cf09b34894d80f2761ec95a
+      internalID: 1033314017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_79
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 329
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0708d4a7718354fa7bbbe6622bfd4a
+      internalID: 1600450407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_80
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed175060948d2e046b0c5679bf42bdb9
+      internalID: -1180131574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_81
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 341
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e173c03f7433a48957ea6d705cd7d4
+      internalID: -532802199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_82
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 341
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff27e78f07acd864589b375184fdb955
+      internalID: -1028631054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_83
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 341
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d604b1080ab0a4aa28e5adfb712bb0
+      internalID: -1469193829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_84
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 275
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f47a7078ea28c4c89c1e719d6005e6
+      internalID: -55297013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_85
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 305
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959d91dabd43a5c47b1f25d60641de39
+      internalID: 225671133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_86
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 302
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1cc43811dd9c04b97a9efc3bb8ff72
+      internalID: -320372002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_87
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 250
+        width: 103
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9a1e8538ae7174f8a60f51954cfb10
+      internalID: 1731088480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_88
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 287
+        width: 128
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743f8a08829f24e4492377e4f4f3a3bb
+      internalID: 762912616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_89
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 275
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f3e1021e261794a9f96a1b325dc080
+      internalID: 951528626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_90
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 287
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a8da926d219ec41b1e2daf721fcaf6
+      internalID: -1658438185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_91
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 206
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0c06d6cf0cd65449ba16f3b14ab955
+      internalID: -987063912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_92
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 227
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bb627ca6d5c2b4c83d5123fd9a12ac
+      internalID: 11895944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_93
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 250
+        width: 61
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5eb5c2570332148b0de3b9c047a849
+      internalID: -243423102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_94
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 251
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0b497e49615384e9b0d97f33818552
+      internalID: -411290940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_95
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 251
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692151164cbe43e42a4e147a7ec4817c
+      internalID: -346881385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_96
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 251
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7907ce31540e91a4ea71c6ea6ad66d80
+      internalID: -876263298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_97
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 251
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c4a0695cbbaf14a887010c0b88f0d7
+      internalID: -1603551066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_98
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 251
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5d69179232a024c84619549283f9b6
+      internalID: 713452413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_99
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 206
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773d00eee44fe2d4f922fc5a0f4d4ad6
+      internalID: -51090314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_100
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 222
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46a034ed14a98048aa423ac137f009b
+      internalID: 558106640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_101
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 221
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f728fbbf0b3499439b50a400cfec98f
+      internalID: 1625094589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_102
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 221
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcbb0627d86f414c874bace2ae481ce
+      internalID: -655854719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_103
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 221
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db518d5d2d27001489b7908601b02599
+      internalID: 1319460091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_104
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 221
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef621cdb74192e4691937c3bf7df95a
+      internalID: -1002816659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_105
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 221
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f296fc89f9d7ca48bb86c33213d5869
+      internalID: -922973637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_106
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7218d05f26db14cae880055c4bbd2e
+      internalID: -329386518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_107
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eee6c84aa981ab45b17ae21688fea06
+      internalID: -2121169915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_108
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 217
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b844835c3457374b8e66c83cc699594
+      internalID: 1089483382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_109
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 217
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3e0fb3e5fcfae408cf65401ca3c619
+      internalID: -1278396089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_110
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 217
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f6fedf8e59fe049a9c65be67c9a812
+      internalID: 498444804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_111
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 206
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f1fcfcc09c223468440e1dd73d2a20
+      internalID: -672718938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_112
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 198
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c153b04c712194da88a540296d5a73
+      internalID: 981287043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_113
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 196
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32d5b5fd4d4d4d488e35e2a0f258537
+      internalID: 1046048102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_114
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 196
+        width: 73
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025d1c892a6c7b2498c5be3c596ac350
+      internalID: -528403358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_115
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 196
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d399b5f34b5866f4eaa210b7b3703ad6
+      internalID: 1924162432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_116
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 172
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940a3dd492969a8439712c9ad5b3df27
+      internalID: 1604023342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_117
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 137
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55903104fb9b0fd409eaf2101da8e1cb
+      internalID: -851475297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_118
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bd71f5bcf8aa240af9569941f89ffd
+      internalID: 1462135421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_119
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0490f847af53a429f3c046edd30d4e
+      internalID: -1493894962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_120
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bceb62be131fd48b7c27283b018d95
+      internalID: 652203380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_121
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 110
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875453f45c15a1b4e860fa8797b0b9a8
+      internalID: -1058377678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_122
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 166
+        width: 88
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f228e7b9feb9f40824b79271e29bc1
+      internalID: -2096673555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_123
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 182
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4434c9e0f296a34dbd901910335d373
+      internalID: -36508355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_124
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 182
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464ba5e08c4f8df46865a35c0bc191c7
+      internalID: -1317450478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_125
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 182
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d39d30dcf030d147937370a98428b19
+      internalID: 1178390971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_126
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 110
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4648b60ded29b434095f887e15f9de2c
+      internalID: 1241759739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_127
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 165
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d83110294bac14981cdffd014e14c0
+      internalID: 5251063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_128
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 165
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b0c6afee8498d48a49ef723a75e447
+      internalID: -746391681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_129
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 165
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13e88c8fbc06224f89c1749055df307
+      internalID: 464869959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_130
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 137
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db4f2646b489d947af893d072926803
+      internalID: 1541122251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_131
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 110
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15af1f3668ead1a40aa0b46d02ae4f1e
+      internalID: -488359213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_132
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 110
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b467418619a2e46b51e7aa7ddbe112
+      internalID: -1851516021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_133
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 110
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4809c72c252247a438a671d880fc61ea
+      internalID: -423138623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_134
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 110
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc5da7be00ff604e8429348ba9da92a
+      internalID: 404108468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_135
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 112
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc7b4226fed961418a5d7c69b552948
+      internalID: -914514004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_136
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 115
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1b984532827734db7afd07599a9180
+      internalID: -49110186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_137
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 98
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96584f416402dd74097b1be7cc6298fc
+      internalID: 59170423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_138
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 97
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76a5fc7bf6dda74f944d8f4b7f72278
+      internalID: 988264917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_139
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 57
+        width: 112
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1916bded6b3329a4da4423821ab92daf
+      internalID: -967937285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_140
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d1494ff6b764740b7b7d9414973038
+      internalID: -654703551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_141
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9cf55f683ac3842a326032b6f910b2
+      internalID: -432855605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_142
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3327fbd96416448acc0c05df7a951e
+      internalID: -1553613974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_143
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ac304c67d673e48ac2189b3425ee7d
+      internalID: -1266037172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_144
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5382de92a2a0b604abf740c638e2476e
+      internalID: 839713826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_145
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 93
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1990bbf9e447b341a701355c507d48f
+      internalID: 328861739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_146
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 106
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b8884e149b7f742a497acbe3169f78
+      internalID: -2049553828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_147
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 104
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67871d115274dd745ac140fe4a73df8e
+      internalID: -134403498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_148
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 104
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529d602bdd3c8c24ab5e43604cf61c86
+      internalID: -236292230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_149
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 104
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec05fc07c0c5b0f4f895c0ba76c8e958
+      internalID: 1573495422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_150
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 104
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070bc9f6b659cb64787047e5a37e5a1d
+      internalID: -564374014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_151
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 104
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0c7eb4a0359b444b4adbf1c8bf16a1
+      internalID: 1371971700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_152
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 104
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5644643e9513ee49a92eb670ca91f7c
+      internalID: 479251946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_153
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 104
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1877dc795317834db20dde5ce7d4383
+      internalID: -626186565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_154
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 104
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce1b2fa460143c49ac396884a43c628
+      internalID: -8643310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_155
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 104
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47890c1288febf40a42fa124edde5a9
+      internalID: 551913005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_156
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 104
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2e322e6e13f6c4b85ad4ca2c9ba637
+      internalID: 1304067535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_157
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 104
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfbcb09044a5ff4b9259016a4149fb1
+      internalID: 413444844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_158
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8af39add73bd754582711bef1eda6c5
+      internalID: -214299177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_159
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 85
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945f2a91dd48d0d4bb9a65852ae2b409
+      internalID: -1687154443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_160
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 81
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc52bad3547b5844bf8c5af75f512c5
+      internalID: 1038625377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_161
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 85
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd9a89c2fcf69b4688453a1d8e825eb
+      internalID: 628938730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_162
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 85
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a022d6bef06ffb4408a1905c2bf8e09a
+      internalID: -975837913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_163
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 81
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319b6d095ca77b3419d7cd72d875a580
+      internalID: 1869732562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_164
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 81
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402c9294753b04e4a848ec4214251580
+      internalID: -472282520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_165
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 85
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e41664c1128e02438b062bad3d4b9e1
+      internalID: 58056516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_166
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 85
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82b18b02f55ed341948945b701d6f5a
+      internalID: 1439704998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_167
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 85
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90285dae899fbe418e793191f874771
+      internalID: -1329564643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_168
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 81
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7179579e0d419434a850cf2324fec07a
+      internalID: -209007501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_169
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911796354f08c634688f2097601fcb05
+      internalID: 2107019705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_170
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 6
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25834c301f30b249b47acaf5ad843f2
+      internalID: 1625826788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_171
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe8edb623e372d4c84411f684afd8aa
+      internalID: 269277290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_172
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 54
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1851af3d8e341384691ace0bbc301436
+      internalID: -773710848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_173
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 66
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5bc7f423a75284a81d5e711119e298
+      internalID: -140244221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_174
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 66
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339a52e1c15546e419fdd38ef84bcc55
+      internalID: -1082677623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_175
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 66
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10db331d349043458c9f18f81df0a11
+      internalID: -992839829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_176
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 66
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e4443ae4ab39342b1efcfd299cbf27
+      internalID: -2121934203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_177
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 66
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e1d0c3cfd70cd42904fbe151ab2f78
+      internalID: 1090932958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_178
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 66
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2416b33af040d646a2d650efd15c78d
+      internalID: 2061831764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_179
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 47
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6263cb60155def47b9822b48201bd13
+      internalID: -1719521295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_180
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 47
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b3b0e227f978f4b93e11675cfae2f3
+      internalID: -340735607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_181
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 66
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ef7addaf1f7a44585b9ecd04996f74
+      internalID: -1933141109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_182
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 66
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e79ccac1060af64f8d2f2eff62ed656
+      internalID: 1077034773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_183
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 66
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe5b4d8e2d9da94282168058a15e833
+      internalID: 1032215355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_184
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 24
+        width: 152
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9524fda4a37ded4dbbbb93b3af07b81
+      internalID: 642836701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_185
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 38
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0afddc32475d2448c3e6126cbfb691
+      internalID: 2082645028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_186
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 52
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac925b8a68f9ef64f81a3c933911ed01
+      internalID: -551692756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_187
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 52
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77df236a14a3764ab869847a1cfde99
+      internalID: 1499331982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_188
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa26d34f0a63ba4dae4dee46c74718d
+      internalID: -445381918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_189
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 47
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4beb6cf060a884095a129680a97a2d
+      internalID: 223476369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_190
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 47
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6e19d99a1c91b40a1c99ae0d213f8d
+      internalID: -1619099403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_191
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a597d92f23dbdf4287adb38419690ed
+      internalID: 541526115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_192
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4b9c481b66ea044b602cae5fef491c
+      internalID: 667073550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_193
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b70b96e2b3e0d045ad6e29ccb2c4d1e
+      internalID: -1934782747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_194
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 47
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281ddb3f2bc58724295836203bce10f2
+      internalID: -1362300063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_195
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 38
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff10f2a482a27a84aa55923619813274
+      internalID: 1053977120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_196
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd24f68943a1484d8981eff21f378d4
+      internalID: -2024281751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_197
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b36fc62fe16114d8547909949f89b7
+      internalID: -291043550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_198
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 29
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e5055bcbf887141900f8bdb643d9b7
+      internalID: 1016162785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_199
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 33
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c52af8435b617f418d634ec431efedc
+      internalID: -761641001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_200
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 32
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5b1daa27ef171498869bbd6fd37ecf
+      internalID: 536086774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_201
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 32
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67ed48f3dba78548917e15383c53511
+      internalID: 1518330393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_202
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 24
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdd4dd54a479c4429f08b9986d7bf79
+      internalID: -1890374719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_203
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d07ca0d33d43084cadeeaf29dce226c
+      internalID: 1125360775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_204
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 28
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2ca022d92e48243b6316234bd9f240
+      internalID: -461789908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_205
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 28
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0adb3b967f2ad4897ae6fafedf7a7b
+      internalID: 1790622559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_206
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 28
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0858f1a0fc76084494827098b87b478
+      internalID: 1724542064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_207
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 28
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d581c03c26dc9343b81602a47905147
+      internalID: -1656760751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_208
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 28
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18591f95fa3d6b549ad235642e860139
+      internalID: 1921096469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_209
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 9
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355f736c63e97d24095a8392c64e60d6
+      internalID: -2114351851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_210
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a269f1404f72391428148d0f604f8788
+      internalID: 2048933034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_211
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 9
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf0e5672c5d428499737b1b3431a76e
+      internalID: 1874784067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_212
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39fb0ff551fe2e47982b705387ba77f
+      internalID: 531743026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_213
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada94bb0c8957b64abafb8451d2aca32
+      internalID: 180839773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_214
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cc1c04f7db2a94ca6c6982b6d6a1c8
+      internalID: 1139405340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_215
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c4df599a8c32a47942f36ed34f8363
+      internalID: -625731381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Level_TileMap_216
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 9
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebce1ca310805034c802f87aa19461c9
+      internalID: -342317679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mario_Level_TileMap_0: 62125129
+      Mario_Level_TileMap_1: 929963465
+      Mario_Level_TileMap_10: -898935993
+      Mario_Level_TileMap_100: 558106640
+      Mario_Level_TileMap_101: 1625094589
+      Mario_Level_TileMap_102: -655854719
+      Mario_Level_TileMap_103: 1319460091
+      Mario_Level_TileMap_104: -1002816659
+      Mario_Level_TileMap_105: -922973637
+      Mario_Level_TileMap_106: -329386518
+      Mario_Level_TileMap_107: -2121169915
+      Mario_Level_TileMap_108: 1089483382
+      Mario_Level_TileMap_109: -1278396089
+      Mario_Level_TileMap_11: -1967555487
+      Mario_Level_TileMap_110: 498444804
+      Mario_Level_TileMap_111: -672718938
+      Mario_Level_TileMap_112: 981287043
+      Mario_Level_TileMap_113: 1046048102
+      Mario_Level_TileMap_114: -528403358
+      Mario_Level_TileMap_115: 1924162432
+      Mario_Level_TileMap_116: 1604023342
+      Mario_Level_TileMap_117: -851475297
+      Mario_Level_TileMap_118: 1462135421
+      Mario_Level_TileMap_119: -1493894962
+      Mario_Level_TileMap_12: -224029938
+      Mario_Level_TileMap_120: 652203380
+      Mario_Level_TileMap_121: -1058377678
+      Mario_Level_TileMap_122: -2096673555
+      Mario_Level_TileMap_123: -36508355
+      Mario_Level_TileMap_124: -1317450478
+      Mario_Level_TileMap_125: 1178390971
+      Mario_Level_TileMap_126: 1241759739
+      Mario_Level_TileMap_127: 5251063
+      Mario_Level_TileMap_128: -746391681
+      Mario_Level_TileMap_129: 464869959
+      Mario_Level_TileMap_13: 1703482203
+      Mario_Level_TileMap_130: 1541122251
+      Mario_Level_TileMap_131: -488359213
+      Mario_Level_TileMap_132: -1851516021
+      Mario_Level_TileMap_133: -423138623
+      Mario_Level_TileMap_134: 404108468
+      Mario_Level_TileMap_135: -914514004
+      Mario_Level_TileMap_136: -49110186
+      Mario_Level_TileMap_137: 59170423
+      Mario_Level_TileMap_138: 988264917
+      Mario_Level_TileMap_139: -967937285
+      Mario_Level_TileMap_14: -1690027709
+      Mario_Level_TileMap_140: -654703551
+      Mario_Level_TileMap_141: -432855605
+      Mario_Level_TileMap_142: -1553613974
+      Mario_Level_TileMap_143: -1266037172
+      Mario_Level_TileMap_144: 839713826
+      Mario_Level_TileMap_145: 328861739
+      Mario_Level_TileMap_146: -2049553828
+      Mario_Level_TileMap_147: -134403498
+      Mario_Level_TileMap_148: -236292230
+      Mario_Level_TileMap_149: 1573495422
+      Mario_Level_TileMap_15: -834691196
+      Mario_Level_TileMap_150: -564374014
+      Mario_Level_TileMap_151: 1371971700
+      Mario_Level_TileMap_152: 479251946
+      Mario_Level_TileMap_153: -626186565
+      Mario_Level_TileMap_154: -8643310
+      Mario_Level_TileMap_155: 551913005
+      Mario_Level_TileMap_156: 1304067535
+      Mario_Level_TileMap_157: 413444844
+      Mario_Level_TileMap_158: -214299177
+      Mario_Level_TileMap_159: -1687154443
+      Mario_Level_TileMap_16: -316273154
+      Mario_Level_TileMap_160: 1038625377
+      Mario_Level_TileMap_161: 628938730
+      Mario_Level_TileMap_162: -975837913
+      Mario_Level_TileMap_163: 1869732562
+      Mario_Level_TileMap_164: -472282520
+      Mario_Level_TileMap_165: 58056516
+      Mario_Level_TileMap_166: 1439704998
+      Mario_Level_TileMap_167: -1329564643
+      Mario_Level_TileMap_168: -209007501
+      Mario_Level_TileMap_169: 2107019705
+      Mario_Level_TileMap_17: 1697051564
+      Mario_Level_TileMap_170: 1625826788
+      Mario_Level_TileMap_171: 269277290
+      Mario_Level_TileMap_172: -773710848
+      Mario_Level_TileMap_173: -140244221
+      Mario_Level_TileMap_174: -1082677623
+      Mario_Level_TileMap_175: -992839829
+      Mario_Level_TileMap_176: -2121934203
+      Mario_Level_TileMap_177: 1090932958
+      Mario_Level_TileMap_178: 2061831764
+      Mario_Level_TileMap_179: -1719521295
+      Mario_Level_TileMap_18: -2096756522
+      Mario_Level_TileMap_180: -340735607
+      Mario_Level_TileMap_181: -1933141109
+      Mario_Level_TileMap_182: 1077034773
+      Mario_Level_TileMap_183: 1032215355
+      Mario_Level_TileMap_184: 642836701
+      Mario_Level_TileMap_185: 2082645028
+      Mario_Level_TileMap_186: -551692756
+      Mario_Level_TileMap_187: 1499331982
+      Mario_Level_TileMap_188: -445381918
+      Mario_Level_TileMap_189: 223476369
+      Mario_Level_TileMap_19: 1071833375
+      Mario_Level_TileMap_190: -1619099403
+      Mario_Level_TileMap_191: 541526115
+      Mario_Level_TileMap_192: 667073550
+      Mario_Level_TileMap_193: -1934782747
+      Mario_Level_TileMap_194: -1362300063
+      Mario_Level_TileMap_195: 1053977120
+      Mario_Level_TileMap_196: -2024281751
+      Mario_Level_TileMap_197: -291043550
+      Mario_Level_TileMap_198: 1016162785
+      Mario_Level_TileMap_199: -761641001
+      Mario_Level_TileMap_2: 1971005426
+      Mario_Level_TileMap_20: 672329984
+      Mario_Level_TileMap_200: 536086774
+      Mario_Level_TileMap_201: 1518330393
+      Mario_Level_TileMap_202: -1890374719
+      Mario_Level_TileMap_203: 1125360775
+      Mario_Level_TileMap_204: -461789908
+      Mario_Level_TileMap_205: 1790622559
+      Mario_Level_TileMap_206: 1724542064
+      Mario_Level_TileMap_207: -1656760751
+      Mario_Level_TileMap_208: 1921096469
+      Mario_Level_TileMap_209: -2114351851
+      Mario_Level_TileMap_21: -630512746
+      Mario_Level_TileMap_210: 2048933034
+      Mario_Level_TileMap_211: 1874784067
+      Mario_Level_TileMap_212: 531743026
+      Mario_Level_TileMap_213: 180839773
+      Mario_Level_TileMap_214: 1139405340
+      Mario_Level_TileMap_215: -625731381
+      Mario_Level_TileMap_216: -342317679
+      Mario_Level_TileMap_22: -1980716980
+      Mario_Level_TileMap_23: -944312349
+      Mario_Level_TileMap_24: 611859248
+      Mario_Level_TileMap_25: 1922498581
+      Mario_Level_TileMap_26: -58495794
+      Mario_Level_TileMap_27: 258898026
+      Mario_Level_TileMap_28: 1043099598
+      Mario_Level_TileMap_29: 633611003
+      Mario_Level_TileMap_3: 391349104
+      Mario_Level_TileMap_30: 160894531
+      Mario_Level_TileMap_31: 799031092
+      Mario_Level_TileMap_32: -832848334
+      Mario_Level_TileMap_33: 900328604
+      Mario_Level_TileMap_34: -1245724417
+      Mario_Level_TileMap_35: 1691466735
+      Mario_Level_TileMap_36: 1893035766
+      Mario_Level_TileMap_37: 1826658669
+      Mario_Level_TileMap_38: 1349039218
+      Mario_Level_TileMap_39: 1829320245
+      Mario_Level_TileMap_4: 511557480
+      Mario_Level_TileMap_40: 828254533
+      Mario_Level_TileMap_41: 849398502
+      Mario_Level_TileMap_42: 821125847
+      Mario_Level_TileMap_43: 1920850785
+      Mario_Level_TileMap_44: -1216830491
+      Mario_Level_TileMap_45: 1710153911
+      Mario_Level_TileMap_46: 512556742
+      Mario_Level_TileMap_47: 1586245196
+      Mario_Level_TileMap_48: 1116196633
+      Mario_Level_TileMap_49: 1425311009
+      Mario_Level_TileMap_5: -626361769
+      Mario_Level_TileMap_50: -683628669
+      Mario_Level_TileMap_51: -321696390
+      Mario_Level_TileMap_52: 1035378873
+      Mario_Level_TileMap_53: -1904792124
+      Mario_Level_TileMap_54: 743942276
+      Mario_Level_TileMap_55: -1899321943
+      Mario_Level_TileMap_56: -23845131
+      Mario_Level_TileMap_57: 518645047
+      Mario_Level_TileMap_58: 1239255116
+      Mario_Level_TileMap_59: -507914652
+      Mario_Level_TileMap_6: 669393657
+      Mario_Level_TileMap_60: -1441084367
+      Mario_Level_TileMap_61: -943176985
+      Mario_Level_TileMap_62: 599751277
+      Mario_Level_TileMap_63: -683670569
+      Mario_Level_TileMap_64: -116930547
+      Mario_Level_TileMap_65: 31181460
+      Mario_Level_TileMap_66: 897237894
+      Mario_Level_TileMap_67: -1868476012
+      Mario_Level_TileMap_68: 549913723
+      Mario_Level_TileMap_69: 804184517
+      Mario_Level_TileMap_7: 1983108911
+      Mario_Level_TileMap_70: 792166933
+      Mario_Level_TileMap_71: -586885948
+      Mario_Level_TileMap_72: 426929277
+      Mario_Level_TileMap_73: -1472450010
+      Mario_Level_TileMap_74: -1308268158
+      Mario_Level_TileMap_75: -2021134556
+      Mario_Level_TileMap_76: -428225915
+      Mario_Level_TileMap_77: -560740748
+      Mario_Level_TileMap_78: 1033314017
+      Mario_Level_TileMap_79: 1600450407
+      Mario_Level_TileMap_8: -1691428107
+      Mario_Level_TileMap_80: -1180131574
+      Mario_Level_TileMap_81: -532802199
+      Mario_Level_TileMap_82: -1028631054
+      Mario_Level_TileMap_83: -1469193829
+      Mario_Level_TileMap_84: -55297013
+      Mario_Level_TileMap_85: 225671133
+      Mario_Level_TileMap_86: -320372002
+      Mario_Level_TileMap_87: 1731088480
+      Mario_Level_TileMap_88: 762912616
+      Mario_Level_TileMap_89: 951528626
+      Mario_Level_TileMap_9: -434378450
+      Mario_Level_TileMap_90: -1658438185
+      Mario_Level_TileMap_91: -987063912
+      Mario_Level_TileMap_92: 11895944
+      Mario_Level_TileMap_93: -243423102
+      Mario_Level_TileMap_94: -411290940
+      Mario_Level_TileMap_95: -346881385
+      Mario_Level_TileMap_96: -876263298
+      Mario_Level_TileMap_97: -1603551066
+      Mario_Level_TileMap_98: 713452413
+      Mario_Level_TileMap_99: -51090314
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
